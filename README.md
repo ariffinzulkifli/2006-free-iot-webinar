@@ -6,4 +6,6 @@ Saya kongsikan Nota slide dalam PDF dan Arduino Sketch untuk siri webinar, supay
 
 Semoga bermanfaat 😉
 
+Myduino IoT Training Kit: (https://myduino.com/product/myd-002/)
+
 Profile Trainer, Mohamad Ariffin Zulkifli: (https://goo.gl/Fzyyp8) 
